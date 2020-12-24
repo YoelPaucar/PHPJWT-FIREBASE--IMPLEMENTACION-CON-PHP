@@ -1,6 +1,6 @@
 ## GET STARTED
 Ejemplo práctico para autenticar a un usuario usando Json Web Token, necesitaremos
-composer require firebase/php-jwt
+```composer require firebase/php-jwt```
 Instaciamos la Clase y llamamos al metodo Login
 ```
 //use App\Core\Jwt;
